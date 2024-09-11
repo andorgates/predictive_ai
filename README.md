@@ -94,7 +94,7 @@ Gelecekteki olayları doğru bir şekilde tahmin edebilmek için, model geçmiş
 ## Sonuç
 Yapay sinir ağı modelleri, sınıflandırma, doğal dil işleme, karar verme gibi birçok işlevi yerine getirebilmektedir. Bu teknolojiler yapısal bilgi sağlayan bilgi grafikleriyle bütünleştirildiğinde, bu modellerin daha doğru, tutarlı ve zengin bilgi sağlaması mümkün olabilmektedir. Teknoloji dünyasında henüz tam olarak yaygınlaşmayan grafik sinir ağları ise bize yeni ve özgün eserlerin kapısını aralayacaktır.
 
-Bu araştırmamızda, bilinçli bir yapay zekanın meydana gelmesi için gerekli olan şartları açıklığa kavuşturduk. Türü ne olursa olsun bu şartları sağlayan bir modeli "bilinçli" olarak nitelendirebilmekteyiz. 
+Bu araştırmamızda, bilinçli bir yapay zekanın meydana gelmesi için gerekli olan şartları açıklığa kavuşturduk. Türü ne olursa olsun bu şartları sağlayan bir modeli "bilinçli" olarak nitelendirebilmekteyiz.  Buradan yola çıkarak, ilgili modele bir öneri sisteminin adapte edilmesiyle bilinç transferinin mümkün olabileceği görülmektedir.
 
 Bu yolculuğumda bana destek olan ve katkıda bulunan başta önceki Genel Müdürüm Sayın Dr. Cebrail TAŞKIN Bey'e, şimdiki Genel Müdürüm Sayın Dr. Mert ÖZARAR Bey'e, Sayın Daire Başkanım Zeynep Nida ÖZDEMİR Hanım'a, Koordinatörüm Sayın Özgül YEĞİN MÜLAZİOĞLU Hanım'a, ismini burada tek tek sayamasam da bana destek olan tüm değerli kişilere ve hayat yolculuğumda hep yanımda olan, her zaman başarılarımı onurlandıran sevgili eşime en içten teşekkürlerimi sunarım. 
 
